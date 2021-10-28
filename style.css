@@ -49,3 +49,7 @@ body{
     margin-top: .3rem;
     font-weight: 400;
 }
+.card-body{
+    background-color: rgb(17, 14, 15);
+    color: white;
+}
